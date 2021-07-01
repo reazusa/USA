@@ -1,0 +1,16 @@
+G:\USA\Projects\W3Resource\CSharp\Basic\bin\Debug\net5.0\Basic.exe
+G:\USA\Projects\W3Resource\CSharp\Basic\bin\Debug\net5.0\Basic.deps.json
+G:\USA\Projects\W3Resource\CSharp\Basic\bin\Debug\net5.0\Basic.runtimeconfig.json
+G:\USA\Projects\W3Resource\CSharp\Basic\bin\Debug\net5.0\Basic.runtimeconfig.dev.json
+G:\USA\Projects\W3Resource\CSharp\Basic\bin\Debug\net5.0\Basic.dll
+G:\USA\Projects\W3Resource\CSharp\Basic\bin\Debug\net5.0\ref\Basic.dll
+G:\USA\Projects\W3Resource\CSharp\Basic\bin\Debug\net5.0\Basic.pdb
+G:\USA\Projects\W3Resource\CSharp\Basic\obj\Debug\net5.0\Basic.csprojAssemblyReference.cache
+G:\USA\Projects\W3Resource\CSharp\Basic\obj\Debug\net5.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+G:\USA\Projects\W3Resource\CSharp\Basic\obj\Debug\net5.0\Basic.AssemblyInfoInputs.cache
+G:\USA\Projects\W3Resource\CSharp\Basic\obj\Debug\net5.0\Basic.AssemblyInfo.cs
+G:\USA\Projects\W3Resource\CSharp\Basic\obj\Debug\net5.0\Basic.csproj.CoreCompileInputs.cache
+G:\USA\Projects\W3Resource\CSharp\Basic\obj\Debug\net5.0\Basic.dll
+G:\USA\Projects\W3Resource\CSharp\Basic\obj\Debug\net5.0\ref\Basic.dll
+G:\USA\Projects\W3Resource\CSharp\Basic\obj\Debug\net5.0\Basic.pdb
+G:\USA\Projects\W3Resource\CSharp\Basic\obj\Debug\net5.0\Basic.genruntimeconfig.cache

@@ -1,7 +1,16 @@
+==========================================================================
+Usecase:
+There are cases when committing with a different user to a different Git repository is needed. Git offers a very easy command to change user.email and user.name, as long as you remember to do so.
+
+	$ git config user.name "Firstname Lastname"
+	$ git config user.email "Firstname.LastnameDoe@somemailhost.com"
+
+Git also offers a command to globally change user.name and user.email and this is valid for each and every repository that is cloned. If the use case is to work with one name and email only, then maybe this is the best option.
+
 Configure Your Name & Email:
 	$ git config --global user.name "Your Name"
-	$git config --global user.email "your@email.com"
-	
+	$ git config --global user.email "your@email.com"
+==========================================================================	
 Initialize git:
 	$ git init
 

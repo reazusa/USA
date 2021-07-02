@@ -1,0 +1,1 @@
+Branch:	Switch to a branch:		$ git checkout <branchname>		$ git switch <branchname>				==> Create and switch to a new branch:		$ git checkout -b <branchname>				==> Show branches:		$ git branch 			Note: current working branch will be marked with asterisk (*).							

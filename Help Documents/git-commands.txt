@@ -80,4 +80,3 @@ Git Pull:
 	$ git pull origin development
 		- here 'development' is the branch where changes have been made.
 		- here origin is the url.
-		

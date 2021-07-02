@@ -61,3 +61,6 @@ Push an existing repository from the command line:
 			* If there is no name, we use 'origin' to set a name for remote.
 			* 'origin' is pretty standard conventional name.
 			* we can name it as "myGitHub" or "randomPlaceOnline"; it doesn't matter.
+			
+Giving permission to other collaborators for changing:
+	Settings -> Manage access -> Click on "Invite a collaborator" button -> Type the user name or email of the collaborator -> Click on "Select a collaborator above" button.

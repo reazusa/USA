@@ -64,3 +64,11 @@ Push an existing repository from the command line:
 			
 Giving permission to other collaborators for changing:
 	Settings -> Manage access -> Click on "Invite a collaborator" button -> Type the user name or email of the collaborator -> Click on "Select a collaborator above" button.
+	
+
+Git Pull:
+	*** First of all, check that you do not have any uncommitted changes.
+	$ git pull origin development
+		- here 'development' is the branch where changes have been made.
+		- here origin is the url.
+		
